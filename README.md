@@ -1,1 +1,3 @@
-# state-capital-search
+# State Capital Search 
+
+TraversyMedia
